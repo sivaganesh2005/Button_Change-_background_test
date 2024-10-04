@@ -1,0 +1,30 @@
+button{
+    padding: 15px;
+    border-radius: 8px;
+}
+button:hover{
+    border: 2px solid black;
+    color: black;
+    width: 100px;
+    transition: 0.s ease-in-out;
+}
+/* .b{
+    background-color: blue;
+} */
+/* .r{
+    background-color: red;
+}
+.g{
+    background-color: green;
+} */
+.cont{
+    background-color: aqua;
+    display:flex;
+    gap: 10px;
+    width:300px;
+    justify-content: center;
+    padding: 50px;
+    position: absolute;
+    top: 250px;
+    left: 450px;
+}
