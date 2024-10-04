@@ -9,15 +9,15 @@ button:hover{
     transition: 0.3s ease-in-out;
     cursor:cell;
 }
-/* .b{
+#b{
     background-color: blue;
-} */
-/* .r{
+}
+#r{
     background-color: red;
 }
-.g{
+#g{
     background-color: green;
-} */
+} 
 .cont{
     /* background-color: aqua; */
     display:flex;
