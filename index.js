@@ -16,7 +16,7 @@ function change(col){
 
     }
     else{
-        document.body.style.backgroundColor="white";
+        document.body.style.backgroundColor="cyan";
         document.getElementById("b").style.backgroundColor="blue"
         document.getElementById("r").style.backgroundColor="red"
         document.getElementById("g").style.backgroundColor="green"
